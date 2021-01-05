@@ -24,6 +24,7 @@ associado é identificado por um id único e pode votar apenas uma vez por pauta
  - Mockito
  - Java 8
  - Flyway
+ - Lombok
  - MySQL
  - JMS + ActiveMQ
  - Docker
